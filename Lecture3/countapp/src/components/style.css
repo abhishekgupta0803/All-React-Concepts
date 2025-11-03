@@ -1,0 +1,17 @@
+.card-component {
+  border: 2px solid white;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  border-radius: 10px;
+  background-color: pink;
+  color: black;
+  font-size: larger;
+}
+
+#btn:hover {
+  background-color: red;
+}
